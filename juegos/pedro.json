@@ -1,0 +1,9 @@
+{
+    "jugador": {
+        "nombre": "Pedro",
+        "apellido": "Garofalo",
+        "email": "abcd",
+        "edad": "1234"
+    },
+    "ultimo_juego": "Ahorcado"
+}
